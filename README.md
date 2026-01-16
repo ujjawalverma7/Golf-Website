@@ -1,6 +1,6 @@
 ## 📸 Project Preview
 
-(assets/Screenshot.png)
+![Golf Website Preview](assets/Screenshot.png)
 
 
 
