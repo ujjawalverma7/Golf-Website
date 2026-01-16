@@ -1,6 +1,6 @@
 ## 📸 Project Preview
 
-![Project Screenshot](assets/screenshot.png)
+![Project Screenshot](assets/Screenshot.png)
 
 
 
