@@ -1,6 +1,6 @@
 ## 📸 Project Preview
 
-![Golf Website Preview](assets/Screenshot.png)
+![sidcup-family-golf-main](assets/Screenshot.png)
 
 
 
